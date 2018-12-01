@@ -2,3 +2,7 @@
 Pascal's triangle using HTML-CSS and Vanila Javascript
 
 Pascal's triangle using Vanila javascript, CSS and HTML
+
+
+
+#happy coding
