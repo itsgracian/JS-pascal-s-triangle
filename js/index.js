@@ -1,7 +1,4 @@
-//# Hey my name is gratian tuyishimire, this is my work
-//@thank you.
-
-//@beginning of my code
+//@beginning
 //@footer add current year to footer
 let footerYear=document.querySelector(".fullyear");
 //@add footerYear to index.html
